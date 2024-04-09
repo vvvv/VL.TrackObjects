@@ -2,21 +2,22 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/10/nuspec.xsd">
   <metadata>
     <id>VL.TrackObjects</id>
-	<version>0.0.3-alpha</version>
+	<version>0.0.4-alpha</version>
     <title>VL.TrackObjects</title>
     <authors>vvvv</authors>
     <owners>vvvv</owners>
     <projectUrl>https://github.com/vvvv/VL.TrackObjects</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <summary>Follows and identifies objects over time and assigns them a stable and unique ID</summary>
-	<description>Follows and identifies objects over time and assigns them a stable and unique ID. Try it with vvvv: http://visualprogramming.net</description>
+	<description>Follows and identifies objects over time and assigns them a stable and unique ID</description>
     <tags>VL, tracking</tags>
     <license type="expression">LGPL-3.0-only</license>
     <icon>nugeticon.png</icon>
+    <readme>docs\README.md</readme>
   </metadata>
   <files>
     <file src="..\*.vl" target="" exclude="" />
     <file src="..\help\**" target="help\" exclude="" />
+    <file src="..\README.md" target="docs\" />
     <file src="..\nugeticon.png" target="" />
   </files>
 </package>
