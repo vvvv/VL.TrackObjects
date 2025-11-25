@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Document xmlns:p="property" xmlns:r="reflection" Id="SzyKlIWvHlIN4gdrIOWWwN" LanguageVersion="2024.6.0" Version="0.128">
-  <NugetDependency Id="NZPZffJedHkM0DUbbSCrD0" Location="VL.CoreLib" Version="2024.6.0" />
+<Document xmlns:p="property" xmlns:r="reflection" Id="SzyKlIWvHlIN4gdrIOWWwN" LanguageVersion="2025.7.1-0106-gc0edd1f65b" Version="0.128">
+  <NugetDependency Id="NZPZffJedHkM0DUbbSCrD0" Location="VL.CoreLib" Version="2025.7.1-0106-gc0edd1f65b" />
   <Patch Id="RgksdX5QQ4HLr4PxYc2bkO">
     <Canvas Id="FQ2tXXCkF1BPDzXrFZLSnS" DefaultCategory="Animation" CanvasType="FullCategory">
       <!--
@@ -817,7 +817,7 @@
               <Pin Id="AlEEXLkYAFuMJZArRPbnv8" Name="Object" Kind="InputPin" />
               <Pin Id="RVKyAJ3uIqcQc4RdPahHkd" Name="Id" Kind="InputPin" />
             </Patch>
-            <Patch Id="MPZRT1dSqb0LH2tjr6iPYZ" Name="Update (Internal)">
+            <Patch Id="MPZRT1dSqb0LH2tjr6iPYZ" Name="Update (Internal)" ParticipatingElements="KqIx9pEyNkNM2DC41GjDpD,AlrEvg3H5m4PGZN3lHb6oQ">
               <Pin Id="Tul2zUAsGiSMZezILqJlVt" Name="Object" Kind="InputPin" />
             </Patch>
             <ProcessDefinition Id="AzQKRYTYbyUOXrTTbaA5SC" IsHidden="true">
@@ -961,5 +961,5 @@
       </Patch>
     </Node>
   </Patch>
-  <NugetDependency Id="PI4BUc4RFqMOaOEyMClpRD" Location="VL.Skia" Version="2024.6.0" />
+  <NugetDependency Id="PI4BUc4RFqMOaOEyMClpRD" Location="VL.Skia" Version="2025.7.1-0106-gc0edd1f65b" />
 </Document>

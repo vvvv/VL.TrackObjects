@@ -1,7 +1,7 @@
 # VL.TrackObjects
 Follows and identifies objects over time and assigns them a stable and unique ID.
 
-For use with vvvv, the visual live-programming environment for .NET: http://visualprogramming.net
+For use with vvvv, the visual live-programming environment for .NET: http://vvvv.org
 
 ## Getting started
 - Install as [described here](https://thegraybook.vvvv.org/reference/hde/managing-nugets.html) via commandline:
